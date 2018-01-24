@@ -1,5 +1,9 @@
 # ReactWithWebpack_Babel 
 
+## Tutorial Source
+
+https://www.valentinog.com/blog/react-webpack-babel/
+
 ## Container/Presentational Principle
 
 carries all the logic -> functions for handling state changes, internal component state, etc.
